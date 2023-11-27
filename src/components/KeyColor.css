@@ -1,0 +1,25 @@
+.key-color-container {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  margin: 30px;
+  border-radius: 20px;
+  background: linear-gradient(315deg, #eeeeee, #c8c8c8);
+  box-shadow: 9px 9px 10px #c3c3c3, -9px -9px 10px #f9f9f9;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+}
+span {
+  position: absolute;
+  top: 50%;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #252525;
+}
+.key-color-container:hover {
+  border-radius: 20px;
+  background: #dedede;
+  box-shadow: inset 9px 9px 10px #cacaca, inset -9px -9px 10px #f2f2f2;
+}

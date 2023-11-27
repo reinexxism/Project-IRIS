@@ -1,5 +1,7 @@
 .container {
   width: 100vw;
   height: 100vh;
-  background-color: #c2afaf;
+  background: #dedede;
+  display: flex;
+  align-items: center;
 }

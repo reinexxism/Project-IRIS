@@ -1,0 +1,11 @@
+.key-section-container {
+  width: 30%;
+  height: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow: scroll;
+}
+.scroll::-webkit-scrollbar {
+  display: none;
+}

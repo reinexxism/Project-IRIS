@@ -2,5 +2,5 @@ import React from "react";
 import "./ColorChip.css";
 
 export default function ColorChip() {
-  return <div></div>;
+  return <div className="color-chip-container"></div>;
 }

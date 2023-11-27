@@ -1,0 +1,39 @@
+.key-color-circle-container {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 45px;
+  height: 45px;
+  border-radius: 15px;
+}
+
+.red {
+  background-color: rgb(119, 69, 69);
+}
+.orange {
+  background-color: #c18758;
+}
+.yellow {
+  background-color: rgb(216, 211, 121);
+}
+.green {
+  background-color: #5da155;
+}
+.blue {
+  background-color: rgb(67, 90, 126);
+}
+.purple {
+  background-color: rgb(138, 83, 167);
+}
+.white {
+  background-color: #eeeeee;
+}
+.black {
+  background-color: #252525;
+}
+.brown {
+  background-color: #514141;
+}
+.pink {
+  background-color: #b780b2;
+}
