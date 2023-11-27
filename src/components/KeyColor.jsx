@@ -6,7 +6,7 @@ export default function KeyColor({ keyColorName }) {
   return (
     <div className="key-color-container">
       <KeyColorCircle keyColorValue={keyColorName} />
-      <span>{keyColorName}</span>
+      <span className="key-color-name">{keyColorName}</span>
     </div>
   );
 }
