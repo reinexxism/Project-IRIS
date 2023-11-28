@@ -6,7 +6,7 @@
   margin: 15px;
   border-radius: 30px;
   background: #e6e6e6;
-  box-shadow: inset 9px 9px 18px #b2b2b2, inset -9px -9px 18px #ffffff;
+  box-shadow: inset 11px 11px 21px #bdbdbd, inset -11px -11px 21px #ffffff;
   transition: all 0.2s ease;
   cursor: pointer;
   display: flex;
