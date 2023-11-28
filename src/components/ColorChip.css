@@ -7,23 +7,29 @@
   border-radius: 30px;
   background: #e6e6e6;
   box-shadow: inset 11px 11px 21px #bdbdbd, inset -11px -11px 21px #ffffff;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
   cursor: pointer;
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
 }
 .color-chip-container:hover {
   width: 330px;
 }
 .color-chip-container:hover .color-chip-name {
-  top: 60%;
-  left: 15px;
+  top: 70px;
+  left: 60px;
+  width: fit-content;
 }
 .color-chip-name {
+  width: 60px;
   position: absolute;
   font-size: 12px;
   font-weight: 500;
   letter-spacing: 0;
   transition: all 0.5s ease;
+  top: 55px;
+  left: 55px;
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
