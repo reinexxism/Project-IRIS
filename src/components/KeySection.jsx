@@ -10,6 +10,7 @@ export default function KeySection() {
       .then((res) => res.json())
       .then((data) => setKeyColors(data));
   }, []);
+
   console.log(keyColors.KeyColor);
   return (
     <div className="key-section-container scroll">
