@@ -2,110 +2,110 @@
   {
     "id": 1,
     "keyColor": "red",
-    "color-chip": [
+    "colorChip": [
       {
         "name": "",
-        "color-code": "",
-        "color-info": ""
+        "colorCode": "",
+        "colorInfo": ""
       }
     ]
   },
   {
     "id": 2,
     "keyColor": "orange",
-    "color-chip": [
+    "colorChip": [
       {
         "name": "",
-        "color-code": "",
-        "color-info": ""
+        "colorCode": "",
+        "colorInfo": ""
       }
     ]
   },
   {
     "id": 3,
     "keyColor": "yellow",
-    "color-chip": [
+    "colorChip": [
       {
         "name": "",
-        "color-code": "",
-        "color-info": ""
+        "colorCode": "",
+        "colorInfo": ""
       }
     ]
   },
   {
     "id": 4,
     "keyColor": "green",
-    "color-chip": [
+    "colorChip": [
       {
         "name": "",
-        "color-code": "",
-        "color-info": ""
+        "colorCode": "",
+        "colorInfo": ""
       }
     ]
   },
   {
     "id": 5,
     "keyColor": "blue",
-    "color-chip": [
+    "colorChip": [
       {
         "name": "",
-        "color-code": "",
-        "color-info": ""
+        "colorCode": "",
+        "colorInfo": ""
       }
     ]
   },
   {
     "id": 6,
     "keyColor": "purple",
-    "color-chip": [
+    "colorChip": [
       {
         "name": "",
-        "color-code": "",
-        "color-info": ""
+        "colorCode": "",
+        "colorInfo": ""
       }
     ]
   },
   {
     "id": 7,
     "keyColor": "white",
-    "color-chip": [
+    "colorChip": [
       {
         "name": "",
-        "color-code": "",
-        "color-info": ""
+        "colorCode": "",
+        "colorInfo": ""
       }
     ]
   },
   {
     "id": 8,
     "keyColor": "black",
-    "color-chip": [
+    "colorChip": [
       {
         "name": "",
-        "color-code": "",
-        "color-info": ""
+        "colorCode": "",
+        "colorInfo": ""
       }
     ]
   },
   {
     "id": 9,
     "keyColor": "brown",
-    "color-chip": [
+    "colorChip": [
       {
         "name": "",
-        "color-code": "",
-        "color-info": ""
+        "colorCode": "",
+        "colorInfo": ""
       }
     ]
   },
   {
     "id": 10,
     "keyColor": "pink",
-    "color-chip": [
+    "colorChip": [
       {
         "name": "",
-        "color-code": "",
-        "color-info": ""
+        "colorCode": "",
+        "colorInfo": ""
       }
     ]
   }
