@@ -9,5 +9,104 @@
         "color-info": ""
       }
     ]
+  },
+  {
+    "id": 2,
+    "key-color": "orange",
+    "color-chip": [
+      {
+        "name": "",
+        "color-code": "",
+        "color-info": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "key-color": "yellow",
+    "color-chip": [
+      {
+        "name": "",
+        "color-code": "",
+        "color-info": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "key-color": "green",
+    "color-chip": [
+      {
+        "name": "",
+        "color-code": "",
+        "color-info": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "key-color": "blue",
+    "color-chip": [
+      {
+        "name": "",
+        "color-code": "",
+        "color-info": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "key-color": "purple",
+    "color-chip": [
+      {
+        "name": "",
+        "color-code": "",
+        "color-info": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "key-color": "beige",
+    "color-chip": [
+      {
+        "name": "",
+        "color-code": "",
+        "color-info": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "key-color": "black",
+    "color-chip": [
+      {
+        "name": "",
+        "color-code": "",
+        "color-info": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "key-color": "brown",
+    "color-chip": [
+      {
+        "name": "",
+        "color-code": "",
+        "color-info": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "key-color": "pink",
+    "color-chip": [
+      {
+        "name": "",
+        "color-code": "",
+        "color-info": ""
+      }
+    ]
   }
 ]
