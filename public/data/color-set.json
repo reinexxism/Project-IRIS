@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "key-color": "red",
+    "keyColor": "red",
     "color-chip": [
       {
         "name": "",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "key-color": "orange",
+    "keyColor": "orange",
     "color-chip": [
       {
         "name": "",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "key-color": "yellow",
+    "keyColor": "yellow",
     "color-chip": [
       {
         "name": "",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "key-color": "green",
+    "keyColor": "green",
     "color-chip": [
       {
         "name": "",
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "key-color": "blue",
+    "keyColor": "blue",
     "color-chip": [
       {
         "name": "",
@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "key-color": "purple",
+    "keyColor": "purple",
     "color-chip": [
       {
         "name": "",
@@ -67,7 +67,7 @@
   },
   {
     "id": 7,
-    "key-color": "beige",
+    "keyColor": "white",
     "color-chip": [
       {
         "name": "",
@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "key-color": "black",
+    "keyColor": "black",
     "color-chip": [
       {
         "name": "",
@@ -89,7 +89,7 @@
   },
   {
     "id": 9,
-    "key-color": "brown",
+    "keyColor": "brown",
     "color-chip": [
       {
         "name": "",
@@ -100,7 +100,7 @@
   },
   {
     "id": 10,
-    "key-color": "pink",
+    "keyColor": "pink",
     "color-chip": [
       {
         "name": "",
