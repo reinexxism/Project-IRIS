@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "./ShadeSection.css";
 import ColorChip from "./ColorChip";
 import Theme from "./Theme";
@@ -11,9 +11,9 @@ export default function ShadeSection() {
         <Theme />
       </div>
       <div className="shade-layer">
-        <ColorChip name="Frosted Jade" />
-        <ColorChip name="Soft Celadon" />
-        <ColorChip name="Palace Green" />
+        <ColorChip />
+        <ColorChip />
+        <ColorChip />
         <ColorChip />
         <ColorChip />
         <ColorChip />
