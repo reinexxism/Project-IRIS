@@ -6,12 +6,11 @@ export default function KeySection() {
   let [keyColors, setKeyColors] = useState([]);
 
   useEffect(() => {
-    fetch("/data/color-set.json")
+    fetch("/data/key-colors.json")
       .then((res) => res.json())
       .then((data) => setKeyColors(data));
   }, []);
 
-  console.log(keyColors.KeyColor);
   return (
     <div className="key-section-container scroll">
       {keyColors.map((color) => {
