@@ -28,7 +28,7 @@ export default function ShadeSection() {
         <ColorChip />
         <ColorChip />
         {/* ㅅㅂ */}
-        {/* {shadeColors[0]["layer1"].map((color) => {
+        {/* {shadeColors[0].layer1.map((color) => {
           return <ColorChip name={color.shadeName} />;
         })} */}
       </div>
@@ -39,6 +39,9 @@ export default function ShadeSection() {
         <ColorChip />
         <ColorChip />
         <ColorChip />
+        {/* {shadeColors[1].layer2.map((color) => {
+          return <ColorChip name={color.shadeName} />;
+        })} */}
       </div>
       <div className="shade-layer">
         <ColorChip />
