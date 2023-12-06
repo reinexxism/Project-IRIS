@@ -1,162 +1,52 @@
-[
-  {
-    "layer1": [
-      {
-        "id": 1,
-        "shadeName": "Green1",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 2,
-        "shadeName": "Green2",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 3,
-        "shadeName": "Green3",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 4,
-        "shadeName": "Green4",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 5,
-        "shadeName": "Green5",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 6,
-        "shadeName": "Green6",
-        "hexCode": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "layer2": [
-      {
-        "id": 1,
-        "shadeName": "Green1",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 2,
-        "shadeName": "Green2",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 3,
-        "shadeName": "Green3",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 4,
-        "shadeName": "Green4",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 5,
-        "shadeName": "Green5",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 6,
-        "shadeName": "Green6",
-        "hexCode": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "layer3": [
-      {
-        "id": 1,
-        "shadeName": "Green1",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 2,
-        "shadeName": "Green2",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 3,
-        "shadeName": "Green3",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 4,
-        "shadeName": "Green4",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 5,
-        "shadeName": "Green5",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 6,
-        "shadeName": "Green6",
-        "hexCode": "",
-        "comment": ""
-      }
-    ]
-  },
-  {
-    "layer4": [
-      {
-        "id": 1,
-        "shadeName": "Green1",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 2,
-        "shadeName": "Green2",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 3,
-        "shadeName": "Green3",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 4,
-        "shadeName": "Green4",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 5,
-        "shadeName": "Green5",
-        "hexCode": "",
-        "comment": ""
-      },
-      {
-        "id": 6,
-        "shadeName": "Green6",
-        "hexCode": "",
-        "comment": ""
-      }
-    ]
-  }
-]
+{
+  "layers": [
+    {
+      "id": 1,
+      "name": "Layer1",
+      "shades": [
+        { "id": 1, "name": "Green1", "hexCode": "", "comment": "" },
+        { "id": 2, "name": "Green2", "hexCode": "", "comment": "" },
+        { "id": 3, "name": "Green3", "hexCode": "", "comment": "" },
+        { "id": 4, "name": "Green4", "hexCode": "", "comment": "" },
+        { "id": 5, "name": "Green5", "hexCode": "", "comment": "" },
+        { "id": 6, "name": "Green6", "hexCode": "", "comment": "" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Layer2",
+      "shades": [
+        { "id": 1, "name": "Green7", "hexCode": "", "comment": "" },
+        { "id": 2, "name": "Green8", "hexCode": "", "comment": "" },
+        { "id": 3, "name": "Green9", "hexCode": "", "comment": "" },
+        { "id": 4, "name": "Green10", "hexCode": "", "comment": "" },
+        { "id": 5, "name": "Green11", "hexCode": "", "comment": "" },
+        { "id": 6, "name": "Green12", "hexCode": "", "comment": "" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Layer3",
+      "shades": [
+        { "id": 1, "name": "Green13", "hexCode": "", "comment": "" },
+        { "id": 2, "name": "Green14", "hexCode": "", "comment": "" },
+        { "id": 3, "name": "Green15", "hexCode": "", "comment": "" },
+        { "id": 4, "name": "Green16", "hexCode": "", "comment": "" },
+        { "id": 5, "name": "Green17", "hexCode": "", "comment": "" },
+        { "id": 6, "name": "Green18", "hexCode": "", "comment": "" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Layer4",
+      "shades": [
+        { "id": 1, "name": "Green19", "hexCode": "", "comment": "" },
+        { "id": 2, "name": "Green20", "hexCode": "", "comment": "" },
+        { "id": 3, "name": "Green21", "hexCode": "", "comment": "" },
+        { "id": 4, "name": "Green22", "hexCode": "", "comment": "" },
+        { "id": 5, "name": "Green23", "hexCode": "", "comment": "" },
+        { "id": 6, "name": "Green24", "hexCode": "", "comment": "" }
+      ]
+    }
+  ]
+}
