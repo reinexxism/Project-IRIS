@@ -4,48 +4,93 @@
       "id": 1,
       "name": "Layer1",
       "shades": [
-        { "id": 1, "name": "Green1", "hexCode": "", "comment": "" },
-        { "id": 2, "name": "Green2", "hexCode": "", "comment": "" },
-        { "id": 3, "name": "Green3", "hexCode": "", "comment": "" },
-        { "id": 4, "name": "Green4", "hexCode": "", "comment": "" },
-        { "id": 5, "name": "Green5", "hexCode": "", "comment": "" },
-        { "id": 6, "name": "Green6", "hexCode": "", "comment": "" }
+        {
+          "id": 1,
+          "name": "Healing Aloe",
+          "hexCode": "#ced2cb",
+          "comment": ""
+        },
+        { "id": 2, "name": "Sea Salt", "hexCode": "#c0cdc1", "comment": "" },
+        {
+          "id": 3,
+          "name": "Liveable Green",
+          "hexCode": "#c6c6b5",
+          "comment": ""
+        },
+        {
+          "id": 4,
+          "name": "Avocado Whip",
+          "hexCode": "#c3cdab",
+          "comment": ""
+        },
+        {
+          "id": 5,
+          "name": "Palace Green",
+          "hexCode": "#71876b",
+          "comment": ""
+        },
+        { "id": 6, "name": "Smoke Green", "hexCode": "#a4b29e", "comment": "" }
       ]
     },
     {
       "id": 2,
       "name": "Layer2",
       "shades": [
-        { "id": 1, "name": "Green7", "hexCode": "", "comment": "" },
-        { "id": 2, "name": "Green8", "hexCode": "", "comment": "" },
-        { "id": 3, "name": "Green9", "hexCode": "", "comment": "" },
-        { "id": 4, "name": "Green10", "hexCode": "", "comment": "" },
-        { "id": 5, "name": "Green11", "hexCode": "", "comment": "" },
-        { "id": 6, "name": "Green12", "hexCode": "", "comment": "" }
+        { "id": 1, "name": "Sage Green", "hexCode": "#c1ccbd", "comment": "" },
+        {
+          "id": 2,
+          "name": "Laurel Green",
+          "hexCode": "#a8b19d",
+          "comment": ""
+        },
+        { "id": 3, "name": "Green Lily", "hexCode": "#b1bcaf", "comment": "" },
+        { "id": 4, "name": "Sugar Snap", "hexCode": "#aab48c", "comment": "" },
+        { "id": 5, "name": "Dried Thyme", "hexCode": "#737c6c", "comment": "" },
+        {
+          "id": 6,
+          "name": "Mint Condition",
+          "hexCode": "#c0d0c1",
+          "comment": ""
+        }
       ]
     },
     {
       "id": 3,
       "name": "Layer3",
       "shades": [
-        { "id": 1, "name": "Green13", "hexCode": "", "comment": "" },
-        { "id": 2, "name": "Green14", "hexCode": "", "comment": "" },
-        { "id": 3, "name": "Green15", "hexCode": "", "comment": "" },
-        { "id": 4, "name": "Green16", "hexCode": "", "comment": "" },
-        { "id": 5, "name": "Green17", "hexCode": "", "comment": "" },
-        { "id": 6, "name": "Green18", "hexCode": "", "comment": "" }
+        { "id": 1, "name": "Rock Garden", "hexCode": "#425044", "comment": "" },
+        { "id": 2, "name": "Jade Dragon", "hexCode": "#899381", "comment": "" },
+        {
+          "id": 3,
+          "name": "Coastal Plain",
+          "hexCode": "#999f8d",
+          "comment": ""
+        },
+        { "id": 4, "name": "Basil", "hexCode": "#5d6a5c", "comment": "" },
+        { "id": 5, "name": "Sage Wisdom", "hexCode": "#a3ac9e", "comment": "" },
+        {
+          "id": 6,
+          "name": "Evergreen Fog",
+          "hexCode": "#909387",
+          "comment": ""
+        }
       ]
     },
     {
       "id": 4,
       "name": "Layer4",
       "shades": [
-        { "id": 1, "name": "Green19", "hexCode": "", "comment": "" },
-        { "id": 2, "name": "Green20", "hexCode": "", "comment": "" },
-        { "id": 3, "name": "Green21", "hexCode": "", "comment": "" },
-        { "id": 4, "name": "Green22", "hexCode": "", "comment": "" },
-        { "id": 5, "name": "Green23", "hexCode": "", "comment": "" },
-        { "id": 6, "name": "Green24", "hexCode": "", "comment": "" }
+        { "id": 1, "name": "Oystar Bay", "hexCode": "#a4aea1", "comment": "" },
+        { "id": 2, "name": "Acacia Haze", "hexCode": "#8e988b", "comment": "" },
+        { "id": 3, "name": "Retreat", "hexCode": "#747d70", "comment": "" },
+        {
+          "id": 4,
+          "name": "Pewter Green",
+          "hexCode": "#595f54",
+          "comment": ""
+        },
+        { "id": 5, "name": "Ripe Olive", "hexCode": "#40463b", "comment": "" },
+        { "id": 6, "name": "Jasper", "hexCode": "#323835", "comment": "" }
       ]
     }
   ]
