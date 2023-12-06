@@ -4,12 +4,13 @@ import ColorChip from "./ColorChip";
 import Theme from "./Theme";
 
 export default function ShadeSection() {
-  const [shadeColors, setShadeColors] = useState([]);
+  const [shadeColors, setShadeColors] = useState(null);
 
   useEffect(() => {
     fetch("/data/shades-green.json")
       .then((res) => res.json())
       .then((data) => {
+        console.log(data);
         setShadeColors(data);
       });
   }, []);
@@ -21,43 +22,52 @@ export default function ShadeSection() {
         <Theme />
       </div>
       <div className="shade-layer">
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        {/* ㅅㅂ */}
-        {/* {shadeColors[0].layer1.map((color) => {
-          return <ColorChip name={color.shadeName} />;
-        })} */}
+        {shadeColors &&
+          shadeColors.layers[0].shades.map((color) => {
+            return (
+              <ColorChip
+                key={color.id}
+                name={color.name}
+                color={color.hexCode}
+              />
+            );
+          })}
       </div>
       <div className="shade-layer">
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        {/* {shadeColors[1].layer2.map((color) => {
-          return <ColorChip name={color.shadeName} />;
-        })} */}
+        {shadeColors &&
+          shadeColors.layers[1].shades.map((color) => {
+            return (
+              <ColorChip
+                key={color.id}
+                name={color.name}
+                color={color.hexCode}
+              />
+            );
+          })}
       </div>
       <div className="shade-layer">
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
+        {shadeColors &&
+          shadeColors.layers[2].shades.map((color) => {
+            return (
+              <ColorChip
+                key={color.id}
+                name={color.name}
+                color={color.hexCode}
+              />
+            );
+          })}
       </div>
       <div className="shade-layer">
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
-        <ColorChip />
+        {shadeColors &&
+          shadeColors.layers[3].shades.map((color) => {
+            return (
+              <ColorChip
+                key={color.id}
+                name={color.name}
+                color={color.hexCode}
+              />
+            );
+          })}
       </div>
     </div>
   );
